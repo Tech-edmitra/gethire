@@ -66,6 +66,7 @@ class OnboardingScreen3 extends StatelessWidget {
                           'assets/images/BoardingScreen3.png',
                         ))),
               ),
+           
               SizedBox(
                 height: 50.fh,
               ),
